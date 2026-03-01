@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **agab0110/agab0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
