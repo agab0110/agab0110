@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 Computer science graduate based in Italy actually working as a software developer.<br>🌱 Actually studying cyber security as a master's degree
+🔭 Computer science graduate based in Italy actually working as a software developer.<br>🌱 Studying cyber security as a master's degree<br>
+💻 Software developer with a backend focus. Always curious, never afraid to learn and always exploring new tech.<br>
+👥 Open to collaborations
 
 
 # 💻 Tech Stack:
